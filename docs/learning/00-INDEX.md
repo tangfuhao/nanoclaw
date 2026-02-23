@@ -16,6 +16,7 @@
 | 08 | [NanoClaw 与 Claude Code 交互全流程](./08-nanoclaw-claude-code-interaction.md) | 从用户消息到 API 调用的完整调用链、密钥安全传递、输出回传 | 25 分钟 |
 | 09 | [容器释放与上下文恢复机制](./09-session-resume-and-context.md) | 三层持久化体系、Session 恢复、CLAUDE.md 记忆、对话归档 | 20 分钟 |
 | 10 | [边界情况与异常处理](./10-edge-cases-and-error-handling.md) | 并发满载排队、游标回滚、重试退避、任务优先级、宿主机重启 | 20 分钟 |
+| 11 | [定时任务与轮询调度系统](./11-task-scheduler-and-polling.md) | 三大轮询循环、任务生命周期、cron/interval/once 调度、任务容器特殊处理 | 20 分钟 |
 
 ## 核心理念
 
